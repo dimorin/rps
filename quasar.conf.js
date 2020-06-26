@@ -157,7 +157,7 @@ module.exports = function (/* ctx */) {
     // Full list of options: https://quasar.dev/quasar-cli/developing-cordova-apps/configuring-cordova
     cordova: {
       // noIosLegacyBuildFlag: true, // uncomment only if you know what you are doing
-      id: 'org.cordova.quasar.app',
+      id: 'rps.bless',
       // Quasar handles app exit on mobile phone back button
       backButtonExit: true
     },

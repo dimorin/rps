@@ -1,6 +1,6 @@
-# RPS (RPS)
+# RPS
 
-RPS
+[RPS](https://rps-bless.netlify.app/)
 
 ## Install the dependencies
 ```bash

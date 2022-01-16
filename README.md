@@ -9,7 +9,7 @@
 > [구글플레이](https://play.google.com/store/apps/details?id=rps.bless)
 <br>
 > [앱 소개 사이트](https://blessstudio.netlify.app/rps.html)
-<br>
+
 ## Install the dependencies
 ```bash
 npm install

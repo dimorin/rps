@@ -4,12 +4,12 @@
 - Score calculation based on play
 - Play voice effects
 <br>
-사이트 : (https://rps-bless.netlify.app/)[https://rps-bless.netlify.app/]<br>
-구글플레이 : (https://play.google.com/store/apps/details?id=rps.bless)[https://play.google.com/store/apps/details?id=rps.bless]
+> [사이트](https://rps-bless.netlify.app/)
 <br>
-앱 소개 사이트 : 
-(https://blessstudio.netlify.app/rps.html)[https://blessstudio.netlify.app/rps.html]
-
+> [구글플레이](https://play.google.com/store/apps/details?id=rps.bless)
+<br>
+> [앱 소개 사이트](https://blessstudio.netlify.app/rps.html)
+<br>
 ## Install the dependencies
 ```bash
 npm install
